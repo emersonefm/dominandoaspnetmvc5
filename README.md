@@ -8,4 +8,8 @@
 
 ## :rocket: Sobre o desafio
 
- Neste desafio vamos criar um projeto com asp net mvc 5 para cadastro simples de fornecedor e produto 
+ Neste desafio vamos criar um projeto com asp net mvc 5 para cadastro simples de fornecedor e produto.
+ Foi usado identity com ClaimsAuthorize para as autorizações. 
+ Repository Pattern. 
+ FluentAPI.
+ 
