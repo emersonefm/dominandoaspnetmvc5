@@ -1,0 +1,16 @@
+C:\Users\emers\Desktop\Desenvolvedor.io\Mvc 5\src\DevIO.Infra\bin\Debug\DevIO.Infra.dll.config
+C:\Users\emers\Desktop\Desenvolvedor.io\Mvc 5\src\DevIO.Infra\bin\Debug\DevIO.Infra.dll
+C:\Users\emers\Desktop\Desenvolvedor.io\Mvc 5\src\DevIO.Infra\bin\Debug\DevIO.Infra.pdb
+C:\Users\emers\Desktop\Desenvolvedor.io\Mvc 5\src\DevIO.Infra\bin\Debug\DevIO.Business.dll
+C:\Users\emers\Desktop\Desenvolvedor.io\Mvc 5\src\DevIO.Infra\bin\Debug\EntityFramework.dll
+C:\Users\emers\Desktop\Desenvolvedor.io\Mvc 5\src\DevIO.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\emers\Desktop\Desenvolvedor.io\Mvc 5\src\DevIO.Infra\bin\Debug\FluentValidation.dll
+C:\Users\emers\Desktop\Desenvolvedor.io\Mvc 5\src\DevIO.Infra\bin\Debug\DevIO.Business.pdb
+C:\Users\emers\Desktop\Desenvolvedor.io\Mvc 5\src\DevIO.Infra\bin\Debug\EntityFramework.xml
+C:\Users\emers\Desktop\Desenvolvedor.io\Mvc 5\src\DevIO.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\emers\Desktop\Desenvolvedor.io\Mvc 5\src\DevIO.Infra\bin\Debug\FluentValidation.xml
+C:\Users\emers\Desktop\Desenvolvedor.io\Mvc 5\src\DevIO.Infra\obj\Debug\DevIO.Infra.csprojAssemblyReference.cache
+C:\Users\emers\Desktop\Desenvolvedor.io\Mvc 5\src\DevIO.Infra\obj\Debug\DevIO.Infra.csproj.CoreCompileInputs.cache
+C:\Users\emers\Desktop\Desenvolvedor.io\Mvc 5\src\DevIO.Infra\obj\Debug\DevIO.Infra.csproj.CopyComplete
+C:\Users\emers\Desktop\Desenvolvedor.io\Mvc 5\src\DevIO.Infra\obj\Debug\DevIO.Infra.dll
+C:\Users\emers\Desktop\Desenvolvedor.io\Mvc 5\src\DevIO.Infra\obj\Debug\DevIO.Infra.pdb
